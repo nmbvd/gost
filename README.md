@@ -92,3 +92,4 @@ Telegram讨论群：[https://t.me/gogost](https://t.me/gogost)
 Google讨论组：[https://groups.google.com/d/forum/go-gost](https://groups.google.com/d/forum/go-gost)
 
 旧版入口：[v2.gost.run](https://v2.gost.run)
+add my des
